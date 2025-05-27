@@ -1,0 +1,6 @@
+@DistribitedCache_HostAddress = http://localhost:5059
+
+GET {{DistribitedCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

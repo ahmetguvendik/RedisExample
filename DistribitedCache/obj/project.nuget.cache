@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wGnJ2U0PPU=",
+  "success": true,
+  "projectFilePath": "/Users/ahmetguvendik/Desktop/untitled folder/Project/RedisExample/DistribitedCache/DistribitedCache.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.5/microsoft.extensions.caching.abstractions.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/9.0.5/microsoft.extensions.caching.stackexchangeredis.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.5/microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.options/9.0.5/microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.extensions.primitives/9.0.5/microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/stackexchange.redis/2.8.37/stackexchange.redis.2.8.37.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.2/swashbuckle.aspnetcore.swagger.8.1.2.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.2/swashbuckle.aspnetcore.swaggergen.8.1.2.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.2/swashbuckle.aspnetcore.swaggerui.8.1.2.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
